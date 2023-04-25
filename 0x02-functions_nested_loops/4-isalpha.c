@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * _isalpha - Checks for alphabetic order
  *
