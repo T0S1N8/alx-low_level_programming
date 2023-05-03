@@ -21,5 +21,5 @@ for (o = longi; o > 0; o--)
 s--;
 }
 
-        _putchar('\n');
+_putchar('\n');
 }
