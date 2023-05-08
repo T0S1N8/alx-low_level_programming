@@ -2,6 +2,7 @@
 /**
  * _strchr - Entry point
  * @s: input
+ * @c: the character to locate
  * Return: Always 0 (Success)
  */
 char *_strchr(char *s, char c)
