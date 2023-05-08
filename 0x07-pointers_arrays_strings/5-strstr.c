@@ -12,11 +12,11 @@ char *p = needle;
 
 while (*l == *p && *p != '\0')
 {
-i++;
+l++;
 p++;
 }
 if (*p == '\0')
 return (haystack);
 }
 return (0);
-}
+}	
